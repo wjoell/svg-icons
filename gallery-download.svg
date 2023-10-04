@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+	<circle cx="50" cy="50" r="50" />
+	<g fill="#fff" class="down-arrow">
+		<polygon
+			points="68.7,54.2 50,72.8 31.4,54.2 24.7,60.8 43.3,79.5 49.9,86.1 56.6,79.4 75.3,60.8 	" />
+		<path d="M45.2,80.7l9.4,0.1l0.1-62.2h-9.3L45.2,80.7z" />
+	</g>
+</svg>

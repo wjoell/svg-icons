@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="i-media-pause" role="presentation"
+    viewBox="0 0 100 100">
+    <circle class="bg" cx="50" cy="50" r="50"></circle>
+    <g class="symbol">
+        <path d="M45,25H30v50h15V25z"></path>
+        <path d="M55,75h15V25H55V75z"></path>
+    </g>
+</svg>

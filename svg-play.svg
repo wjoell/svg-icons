@@ -1,0 +1,7 @@
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="hero-play-button" role="presentation">
+    <g>
+        <circle r="45" cy="50" cx="50" />
+        <polygon points="32.7,20.1 32.7,79.9 84.6,50" fill="#fff" />
+    </g>
+</svg> 

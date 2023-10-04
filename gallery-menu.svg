@@ -1,0 +1,13 @@
+<svg class="icn-gallery-menu" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	viewBox="0 0 100 100">
+	<circle cx="50" cy="50" r="50" />
+	<g class="close" hidden="" fill="#fff">
+		<path class="st1" d="M75.3,31l-6.6-6.6L24.7,68.3l6.6,6.6L75.3,31z" />
+		<path class="st1" d="M31.4,24.4L24.7,31L68.6,75l6.6-6.6L31.4,24.4z" />
+	</g>
+	<g class="more" fill="#fff">
+		<circle class="st2" cx="50" cy="50" r="7.5" />
+		<circle class="st2" cx="50" cy="25" r="7.5" />
+		<circle class="st2" cx="50" cy="75" r="7.5" />
+	</g>
+</svg>

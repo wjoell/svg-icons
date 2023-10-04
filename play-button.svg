@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="play-button" x="0" y="0" version="1.1" viewBox="0 0 100 100">
+	<g>
+	  <circle cx="50" cy="50" r="45"/>
+	  <polygon fill="#fff" points="32.7,20.1 32.7,79.9 84.6,50"/>
+	</g>
+</svg>

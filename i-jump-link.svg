@@ -1,0 +1,9 @@
+<svg data-id="i-jump-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+	<circle cx="500" cy="500" r="490" />
+	<polygon data-id="chevron-1" fill="#fff"
+		points="500,832.8 178.6,596.2 229.4,527.1 500,726.3 770.6,527.1 821.4,596.2 " />
+	<polygon data-id="chevron-2" fill="#fff"
+		points="500,585.8 178.6,349.2 229.4,280.1 500,479.3 770.6,280.1 821.4,349.2 " />
+	<polygon data-id="chevron-3" fill="#fff"
+		points="500,585.8 178.6,349.2 229.4,280.1 500,479.3 770.6,280.1 821.4,349.2 " />
+</svg>
